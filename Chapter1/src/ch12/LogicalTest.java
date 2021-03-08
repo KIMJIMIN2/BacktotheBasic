@@ -11,5 +11,6 @@ public class LogicalTest {
 		System.out.println(num1);
 		System.out.println(i);
 		
+		
 	}
 }
